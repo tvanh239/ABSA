@@ -1,0 +1,1 @@
+{"class":"com.intel.analytics.bigdl.dllib.nnframes.NNModel","timestamp":1650943927545,"sparkVersion":"2.4.6","uid":"DLModel","paramMap":{"featuresCol":"features","predictionCol":"prediction","batchSize":64},"defaultParamMap":{"featuresCol":"features","predictionCol":"prediction","batchSize":1},"tensorDataType":"TensorFloat"}
